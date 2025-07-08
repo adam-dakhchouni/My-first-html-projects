@@ -24,7 +24,6 @@ This repository contains my early projects made using **HTML**, showcasing my pr
 - Minecraft Style Fonts and Layouts  
 - Other beginner HTML experiments  
 
-Each project is organized in its own folder or as individual files.
 
 ---
 
